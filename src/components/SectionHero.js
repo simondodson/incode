@@ -6,7 +6,7 @@ import {safePrefix, markdownify, Link} from '../utils';
 export default class SectionHero extends React.Component {
     render() {
         return (
-            <section id={_.get(this.props, 'section.section_id')} className="block hero-block bg-accent outer">
+            <section id={_.get(this.props, 'section.section_id')} className="block hero-block bg-accents outer">
               <div className="inner">
                 <div className="grid">
                   {_.get(this.props, 'section.image') && 
