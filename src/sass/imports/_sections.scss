@@ -10,12 +10,13 @@
     margin-bottom: 1.66667rem;
   }
 }
+
 &.bg-accents {
     background: _palette(accent);
     background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
     background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
     color: #fff;
-background-image:url("https://cdn.sanity.io/images/vk5sd2eg/production/e7b2cfbee3f640e5746dc95120c9975fda505b59-1000x406.jpg?");
+background-image:url("https://cdn.sanity.io/images/vk5sd2eg/production/e7b2cfbee3f640e5746dc95120c9975fda505b59-1000x406.jpg");
         background-size: 100%;
     background-repeat: no-repeat;
     .block-title {
@@ -557,6 +558,7 @@ background-image:url("https://cdn.sanity.io/images/vk5sd2eg/production/e7b2cfbee
     background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
     color: #fff;
 
+  }
     .block-title {
       color: inherit;
     }
