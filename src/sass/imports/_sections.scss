@@ -1,3 +1,4 @@
+
 /**
  * Sections
  * ----------------------------------------------------------------------------
@@ -11,19 +12,6 @@
   }
 }
 
-.bg-accents {
-    background: _palette(accent);
-    background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
-    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
-    color: #fff;
-background-image:url("https://cdn.sanity.io/images/vk5sd2eg/production/e7b2cfbee3f640e5746dc95120c9975fda505b59-1000x406.jpg");
-        background-size: 100%;
-    background-repeat: no-repeat;
-}
-  
-    .block-title {
-      color: inherit;
-    }
 .block-header {
   margin-bottom: 2rem;
   text-align: center;
@@ -143,7 +131,7 @@ background-image:url("https://cdn.sanity.io/images/vk5sd2eg/production/e7b2cfbee
 }
 
 /* Call to Action */
-.cta-block {   background-image: url("https://cdn.sanity.io/images/vk5sd2eg/production/64390b485a153ee42bc18283763fd7f29bb145bc-600x338.gif");
+.cta-block {
   .block-title {
     margin: 0 0 0.25rem;
   }
@@ -560,7 +548,6 @@ background-image:url("https://cdn.sanity.io/images/vk5sd2eg/production/e7b2cfbee
     background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
     color: #fff;
 
-  }
     .block-title {
       color: inherit;
     }
