@@ -12,6 +12,13 @@ export default {
         },
         {
             "type": "string",
+            "name": "meta_description",
+            "title": "Description",
+            "description": "Meta Description, Includes in SEO",
+            "validation": Rule => Rule.required()
+        },
+        {
+            "type": "string",
             "name": "subtitle",
             "title": "Subtitle",
             "description": "The text shown just below the Title or the Featured Image.",

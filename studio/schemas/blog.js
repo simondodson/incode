@@ -11,6 +11,13 @@ export default {
             "validation": Rule => Rule.required()
         },
         {
+            "type": "string",
+            "name": "meta_description",
+            "title": "Description",
+            "description": "Meta Description, Includes in SEO",
+            "validation": Rule => Rule.required()
+        },
+        {
             "type": "page_menus",
             "name": "menus",
             "title": "Blog Menus",

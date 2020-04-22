@@ -219,6 +219,11 @@ models:
         label: Title
         description: The title of the page.
         required: true
+      - type: string
+        name: meta_description
+        label: Meta Description
+        description: Meta Description, includes SEO
+        required: true
       - type: page_menus
         name: menus
         label: Blog Menus
@@ -233,6 +238,11 @@ models:
         name: title
         label: Title
         description: The title of the page
+        required: true
+       - type: string
+        name: meta_description
+        label: Meta Description
+        description: Meta Description, includes SEO
         required: true
       - type: string
         name: subtitle
@@ -256,6 +266,11 @@ models:
         name: title
         label: Title
         description: The title of the post.
+        required: true
+      - type: string
+        name: meta_description
+        label: Meta Description
+        description: Meta Description, includes SEO
         required: true
       - type: string
         name: subtitle

@@ -1,0 +1,55 @@
+{
+    "siteUrl": "https://incode.com.au/",
+    "footer": {
+        "content": "&copy; incode",
+        "has_nav": true,
+        "has_social": true,
+        "has_subscribe": false,
+        "links": [
+            {
+                "new_window": true,
+                "text": "Made with Jamstack rite.io",
+                "url": "https://www.qldseo.com.au"
+            },
+            {
+                "new_window": true,
+                "text": "Search by Good Pizza ",
+                "url": "https://goodpizza.com.au"
+            },
+            {
+                "new_window": true,
+                "text": "Graphics - secret agency ",
+                "url": "https://www.secretagency.com.au/"
+            },
+            {
+                "text": "site map",
+                "url": "https://incode.com.au/sitemap/"
+            }
+        ],
+        "logo_img": "https://cdn.sanity.io/images/vk5sd2eg/production/1c62c4e1f76c537016c0fd81ac77df843c0024f2-108x40.png",
+        "nav_title": "Incode Engineers",
+        "social_title": "Social ",
+        "subscribe_content": "One structural engineer newsletter. Once a month. ",
+        "subscribe_title": "Subscribe",
+        "tagline": "Incode Engineers "
+    },
+    "header": {
+        "has_nav": true,
+        "logo_img": "https://cdn.sanity.io/images/vk5sd2eg/production/d9649455352c521d85ef4e4e8b98bcf8922a85c2-725x320.png",
+        "menu": {
+            "actions": [
+                {
+                    "label": "Instant Quote",
+                    "url": "/signup"
+                },
+                {
+                    "label": "Chat",
+                    "url": "#"
+                }
+            ]
+        },
+        "title": "incode.com.au"
+    },
+    "palette": "blue",
+    "title": "Brisbane Structural Engineering - incode.com.au"
+}

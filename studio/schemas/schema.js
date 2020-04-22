@@ -27,6 +27,18 @@ import site_menus from './site_menus.js';
 import site_menu_item from './site_menu_item.js';
 import page_menus from './page_menus.js';
 import page_menu_item from './page_menu_item.js';
+import header from './header.js';
+import footer from './footer.js';
+
+import section_faqof from './section_faqof.js';
+import section_featuresof from './section_featuresof.js';
+import section_pricingof from './section_pricingof.js';
+import section_reviewof from './section_reviewof.js';
+import social_of from './social_of.js';
+import menu_header from './menu.js';
+import footer_links from './footer_links.js'
+
+
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -40,6 +52,8 @@ export default createSchema({
     social,
     author,
     landing,
+    header,
+    footer,
     blog,
     page,
     post,
@@ -57,6 +71,13 @@ export default createSchema({
     site_menus,
     site_menu_item,
     page_menus,
-    page_menu_item
+    page_menu_item,
+    section_featuresof,
+    section_faqof,
+    section_pricingof,
+    section_reviewof,
+    social_of,
+    menu_header,
+    footer_links
     ])
 })

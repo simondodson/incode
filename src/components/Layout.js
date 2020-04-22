@@ -10,13 +10,15 @@ export default class Body extends React.Component {
     render() {
         return (
             <React.Fragment>
+
                 <Helmet>
                     <title>{_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - '}{_.get(this.props, 'pageContext.site.siteMetadata.title')}</title>
                     <meta charSet="utf-8"/>
-<script src="//code.jivosite.com/widget/WnNBvieP3f" async></script>
+                    <script src="//code.jivosite.com/widget/WnNBvieP3f" async></script>
 
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
+                    <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.meta_description')}></meta>
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                 </Helmet>

@@ -11,6 +11,13 @@ export default {
             "validation": Rule => Rule.required()
         },
         {
+            "type": "string",
+            "name": "description",
+            "title": "Description",
+            "description": "Meta Description, Includes in SEO",
+            "validation": Rule => Rule.required()
+        },
+        {
             "type": "array",
             "name": "sections",
             "title": "Sections",

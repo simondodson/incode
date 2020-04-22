@@ -1,7 +1,11 @@
 module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
+    // siteMetadata: {
+    //     siteUrl: `https://www.example.com`,
+    //   },
     plugins: [
+        `gatsby-plugin-sitemap`,
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         {
@@ -27,7 +31,7 @@ module.exports = {
         {
             resolve: `gatsby-remark-page-creator`,
             options: {
-                
+
             }
         },
         {
