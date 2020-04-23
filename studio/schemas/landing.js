@@ -12,7 +12,7 @@ export default {
         },
         {
             "type": "string",
-            "name": "description",
+            "name": "meta_description",
             "title": "Description",
             "description": "Meta Description, Includes in SEO",
             "validation": Rule => Rule.required()
