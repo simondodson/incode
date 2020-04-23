@@ -6,7 +6,13 @@ command = "./stackbit-build.sh"
   from = "/*"
   to = "/index.html"
   status = 404
+
 [[headers]]
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
+
+[[redirects]]
+  from = "*.incode.com.au"
+  to = "/index.html"
+  status = 404

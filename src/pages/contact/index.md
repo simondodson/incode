@@ -1,7 +1,4 @@
 ---
-description: >-
-  Structural Engineering Contact Brisbane, Live Chat Engineers, Phone, Fax,
-  Courier - Scan. We are ready to provide service.
 menus:
   main:
     title: Contact
@@ -9,6 +6,9 @@ menus:
   secondary:
     title: Contact
     weight: 3
+meta_description: >-
+  Structural Engineering Contact Brisbane, Live Chat Engineers, Phone, Fax,
+  Courier - Scan. We are ready to provide service
 sections:
   - bg: gray
     featureslist:
