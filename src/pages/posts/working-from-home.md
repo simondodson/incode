@@ -1,10 +1,17 @@
 ---
-date: '2020-01-21'
+date: '2020-04-14'
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
 img_path: >-
   https://cdn.sanity.io/images/vk5sd2eg/production/0fde1b87a1ec7358329d8d7f88c4908ee379b0eb-800x600.gif
+menus: {}
+meta_description: >-
+  We have a highly qualified team who are dedicated to providing you with the
+  best possible service, helping your project exceed expectations. 
+subtitle: >-
+  We have a highly qualified team who are dedicated to providing you with the
+  best possible service, helping your project exceed expectations. 
 template: post
 thumb_img_path: >-
   https://cdn.sanity.io/images/vk5sd2eg/production/6783638eccade9aee50d31c33c8664d953a036f8-640x360.gif

@@ -5,6 +5,7 @@ excerpt: >-
   project success.
 img_path: >-
   https://cdn.sanity.io/images/vk5sd2eg/production/b80cd96a768df933b0daff54d6aa1b52f6b9ffde-800x600.gif
+meta_description: ' 45 year history in Brisbane, you can be confident that we will ensure your project reaches its full potential. We’re focused on quality, customer satisfaction.'
 subtitle: Project reaches its full potential.
 template: post
 thumb_img_path: >-

@@ -8,11 +8,6 @@
             "title": "Instagram",
             "type": "instagram",
             "url": "https://www.instagram.com/incodeengineers/"
-        },
-        {
-            "title": "LinkedIn",
-            "type": "linkedin",
-            "url": "https://www.linkedin.com/"
         }
     ]
 }

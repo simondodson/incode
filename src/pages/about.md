@@ -8,7 +8,9 @@ menus:
   secondary:
     title: About Us
     weight: 1
-meta_description: Meta Description
+meta_description: >-
+  Our Queensland and Brisbane based team is made up of highly experienced
+  structural engineers 
 subtitle: Incode designs that exceed client expectations
 template: page
 title: About Us

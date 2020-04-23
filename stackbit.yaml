@@ -185,6 +185,11 @@ models:
         label: Title
         description: The title of the page.
         required: true
+      - type: string
+        name: meta_description
+        label: Meta Description
+        description: Meta Description, includes SEO
+        required: true
       - type: list
         name: sections
         label: Sections

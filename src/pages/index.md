@@ -1,4 +1,7 @@
 ---
+description: >-
+  Incode Engineers, shapes your concepts into a construction reality. We provide
+  the specialised, custom strutural engineering solutions others can’t.
 menus:
   main:
     title: Home

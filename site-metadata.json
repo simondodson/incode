@@ -17,11 +17,6 @@
                 "url": "https://goodpizza.com.au"
             },
             {
-                "new_window": true,
-                "text": "Graphics - secret agency ",
-                "url": "https://www.secretagency.com.au/"
-            },
-            {
                 "text": "site map",
                 "url": "https://incode.com.au/sitemap/"
             }
@@ -35,7 +30,7 @@
     },
     "header": {
         "has_nav": true,
-        "logo_img": "https://cdn.sanity.io/images/vk5sd2eg/production/d9649455352c521d85ef4e4e8b98bcf8922a85c2-725x320.png",
+        "logo_img": "https://cdn.sanity.io/images/vk5sd2eg/production/bb8f6e8d2ebbb4feaef6404643f56beb3b263c88-189x83.png",
         "menu": {
             "actions": [
                 {

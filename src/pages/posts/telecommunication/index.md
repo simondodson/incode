@@ -5,6 +5,7 @@ excerpt: >-
   telecommunications industry 
 img_path: >-
   https://cdn.sanity.io/images/vk5sd2eg/production/81900e790e441d7399e0ffb3fdf844b91cbe8091-1417x2126.gif
+meta_description: ' Incode Engineers can offer the expertise you need.'
 subtitle: >-
   Whether your telecommunication project is in Brisbane, the Gold Coast or the
   Sunshine Coast – Incode Engineers can offer the expertise you need.
