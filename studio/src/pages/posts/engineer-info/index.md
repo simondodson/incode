@@ -3,6 +3,7 @@ date: '2020-01-13'
 excerpt: '-  Analyzing blueprints, maps, reports, and topographical and geological data;'
 img_path: >-
   https://cdn.sanity.io/images/vk5sd2eg/production/bedc42d43f3a9e8d515fb037263b703625f5068d-301x307.gif
+meta_description: ' Critical skills that a person needs in structural engineering include an in-depth understanding of physics and mathematics. '
 subtitle: >-
   They are experts at solving problems, meeting challenges and providing
   creative solutions.
@@ -11,7 +12,7 @@ thumb_img_path: >-
   https://cdn.sanity.io/images/vk5sd2eg/production/019d143e48dc98e9e437c68e3983fe9b27f58aae-400x300.gif
 title: Structural Engineers History
 ---
-Structures must be able to deal with the conditions in which they are built. A house in Canada must have a roof that can bear the weight of heavy snow and a stadium in California must be able to withstand earthquakes, for example. When building bridges, designers must take into account the conditions of terrain, wind, water and traffic volume. Structural engineers consider all of these factors and provide technical advice about the project.
+Structures must be able to deal with the conditions in which they are built. A house in Brisbane must have a roof that can bear the weight of heavy snow and a stadium in Brisbane must be able to withstand earthquakes, for example. When building bridges, designers must take into account the conditions of terrain, wind, water and traffic volume. Structural engineers consider all of these factors and provide technical advice about the project.
 
 "Structural engineers battle gravity, wind, snow and rain every day to provide the world with outstanding structures," Kate Leighton, a structural engineer, said in "Careers in Structural Engineering, a publication of the Institution of Structural Engineers. "They are experts at solving problems, meeting challenges and providing creative solutions."
 

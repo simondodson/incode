@@ -4,7 +4,7 @@
         "content": "&copy; incode",
         "has_nav": true,
         "has_social": true,
-        "has_subscribe": false,
+        "has_subscribe": true,
         "links": [
             {
                 "new_window": true,
@@ -17,25 +17,24 @@
                 "url": "https://goodpizza.com.au"
             },
             {
-                "new_window": true,
-                "text": "Graphics - secret agency ",
-                "url": "https://www.secretagency.com.au/"
-            },
-            {
                 "text": "site map",
                 "url": "https://incode.com.au/sitemap/"
+            },
+            {
+                "text": "crawl",
+                "url": "https://incode.com.au/sitemap.xml"
             }
         ],
         "logo_img": "https://cdn.sanity.io/images/vk5sd2eg/production/1c62c4e1f76c537016c0fd81ac77df843c0024f2-108x40.png",
         "nav_title": "Incode Engineers",
         "social_title": "Social ",
         "subscribe_content": "One structural engineer newsletter. Once a month. ",
-        "subscribe_title": "Subscribe",
+        "subscribe_title": "Structural Engineering Jobs & News ",
         "tagline": "Incode Engineers "
     },
     "header": {
         "has_nav": true,
-        "logo_img": "https://cdn.sanity.io/images/vk5sd2eg/production/d9649455352c521d85ef4e4e8b98bcf8922a85c2-725x320.png",
+        "logo_img": "https://cdn.sanity.io/images/vk5sd2eg/production/bb8f6e8d2ebbb4feaef6404643f56beb3b263c88-189x83.png",
         "menu": {
             "actions": [
                 {

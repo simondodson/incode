@@ -3,6 +3,9 @@ menus:
   main:
     title: Services
     weight: 2
+meta_description: >-
+  Our structural engineers working with your building design ensure your project
+  lives up to expectations
 sections:
   - actions: []
     bg: gray

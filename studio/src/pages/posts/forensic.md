@@ -5,6 +5,7 @@ excerpt: >-
   Incode Engineers help you
 img_path: >-
   https://cdn.sanity.io/images/vk5sd2eg/production/bd1b2f541a450f7c2547db7f83ba7d37d416d205-750x563.gif
+meta_description: We work laboriously to find out why. incode.com.au
 subtitle: >-
   If a material, component, or structure fails, we work laboriously to find out
   why. Who is responsible? 

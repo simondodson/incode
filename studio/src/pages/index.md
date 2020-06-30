@@ -3,6 +3,9 @@ menus:
   main:
     title: Home
     weight: 1
+meta_description: >-
+  Incode Engineers,  shapes your concepts into a construction reality. We
+  provide the specialised, custom strutural engineering solutions others can’t
 sections:
   - actions:
       - label: Engineering
@@ -132,18 +135,6 @@ sections:
         question: Is incode management accessible to clients?
       - answer: '360 Surveys, TJM Builders, MR'
         question: 'Do you recommended any complimenting services? '
-      - answer: |+
-          [Contact](/contact/)
-          Incode  Engineers in Brisbane
-          Incode Engineers
-          4/258 Montague Road
-          West End QLD 4101
-
-          T. +61 7 3844 7797 (Office)
-
-          M. info@incode.com.au
-
-        question: 'What is your address, phone, email?'
     section_id: FAQ
     subtitle: 'Did You Know Civil Engineers Invented The Water Slide, You''re Welcome.'
     title: 'FAQ Structural Engineers '

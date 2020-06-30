@@ -45,7 +45,26 @@ export default {
             "validation": null,
             "of": [
                 {
-                    "type": "section_faqof",
+                    "type": "object",
+                    "fields": [
+                        {
+                            "type": "string",
+                            "name": "question",
+                            "title": "Question",
+                            "validation": null
+                        },
+                        {
+                            "type": "markdown",
+                            "name": "answer",
+                            "title": "Answer",
+                            "validation": null
+                        }
+                    ],
+                    "preview": {
+                        "select": {
+                            "title": "question"
+                        }
+                    }
                 }
             ]
         },

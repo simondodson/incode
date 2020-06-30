@@ -3,6 +3,9 @@ menus:
   main:
     title: Disciplines
     weight: 3
+meta_description: >-
+  Proven Track Record complete professional civil and structural consulting
+  engineers
 sections:
   - bg: gray
     pricingplans:
@@ -122,5 +125,5 @@ sections:
     title: 'What are you waiting for? '
     type: section_contact
 template: landing
-title: 'Core Incode '
+title: Core Incode
 ---

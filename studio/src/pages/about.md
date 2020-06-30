@@ -8,7 +8,9 @@ menus:
   secondary:
     title: About Us
     weight: 1
-meta_description: Meta Description
+meta_description: >-
+  Our Queensland and Brisbane based team is made up of highly experienced
+  structural engineers 
 subtitle: Incode designs that exceed client expectations
 template: page
 title: About Us
@@ -44,6 +46,7 @@ We are committed to providing designs that exceed client expectations, integrati
 - Certification
 - Reporting
 
-![](https://cdn.sanity.io/images/vk5sd2eg/production/106912dfc55f55933df918f09aedf92350a15ca9-389x129.jpg)
+
+
 
 To learn more about how our services can provide a great solution for your project contact us now on 07 3844 7797 or request a free, no obligation quote.

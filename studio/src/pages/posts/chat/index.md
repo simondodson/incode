@@ -7,6 +7,7 @@ menus:
   secondary:
     title: Live Chat
     weight: 5
+meta_description: 24/7 Chat Support  with real actual structural enginneers.
 subtitle: >-
   A website without a chat is like a brick-and-mortar store without a shop
   assistant. Start a conversation with your visitors and turn them into happy

@@ -5,7 +5,10 @@ menus:
   secondary:
     title: 'Quote Me '
     weight: 1
-meta_description: Meta Description
+meta_description: >-
+  We implement innovative solutions, embrace challenges to breakthrough.  Incode
+  Engineers, located in Brisbane, provides a full range of consulting structural
+  engineering services.
 subtitle: 'We implement innovative solutions, embrace challenges to breakthrough. '
 template: page
 title: Instant Quote
